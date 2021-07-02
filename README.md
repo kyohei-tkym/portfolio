@@ -21,7 +21,8 @@
 ・世界中に自分のボードを自慢したい時
 
 ## 設計書
-<...>
+・ワイヤーフレーム
+https://xd.adobe.com/view/fa9107e3-870c-42d2-b35a-7193118b4ef4-afc2/
 
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1qqNYpHnviVhLLOvzCM26CGV5oaGPCTBdS-4AOGCXM-Q/edit?usp=sharing
