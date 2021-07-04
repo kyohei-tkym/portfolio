@@ -27,7 +27,7 @@
 - 世界中に自分のボードを自慢したい時
 
 ## 設計書
-作成中
+- UI Flows:https://lucid.app/lucidchart/invitations/accept/inv_71d17893-3f5d-428e-abd5-f6256aaa40e9?viewport_loc=21%2C94%2C1755%2C884%2C0_0
 
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1qqNYpHnviVhLLOvzCM26CGV5oaGPCTBdS-4AOGCXM-Q/edit?usp=sharing
