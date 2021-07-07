@@ -31,6 +31,7 @@
 - ワイヤーフレーム:https://xd.adobe.com/view/fa9107e3-870c-42d2-b35a-7193118b4ef4-afc2/
 - ER図：https://drive.google.com/file/d/1HcikPnTRusK_qXl9YxoR_cEv_fZqd9NS/view?usp=sharing
 - テーブル定義書：https://docs.google.com/spreadsheets/d/1K2gYfGHyMEdaslbT5frf2AbBsCDcYzSRMM8LSDhLkdM/edit?usp=sharing
+- 詳細設計：https://docs.google.com/spreadsheets/d/156O8mLF0jW5jmL2DXpt-BeoLhCpdFTr2Pa0xsezqqPc/edit?usp=sharing
 
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1qqNYpHnviVhLLOvzCM26CGV5oaGPCTBdS-4AOGCXM-Q/edit?usp=sharing
